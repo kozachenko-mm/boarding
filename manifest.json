@@ -1,17 +1,15 @@
 {
-  "short_name": "React App",
+  "short_name": "CCR_lite",
   "name": "Create React App Sample",
   "icons": [
     {
-      "src": "icon.png",
+      "src": "./icon.png",
       "sizes": "192x192",
       "type": "image/png"
     }
   ],
-  "start_url": "/?utm_source=homescreen",
+  "start_url": ".",
   "display": "standalone",
   "background_color": "#222",
   "theme_color": "#222"
 }
-
-// "start_url": "/?utm_source=homescreen",
